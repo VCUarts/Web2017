@@ -1,0 +1,45 @@
+/*Custom CSS Stuffs*/
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #F5F5F5;
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.title-slide {
+  background: #F15352;
+  color: white;
+  text-align: center;
+  padding-top: 30vh;
+  font-size: 1.2em;
+}
+
+#counter {
+}  
+
+
+#navigation a {
+  color: black;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.note {
+  background: #FDF4A9;
+  padding: 20px;
+  position: fixed;
+  top: 40px;
+  right: 40px;
+  max-width: 25vw;
+  font-size: .75em;
+  transform: rotate(3deg);
+  box-shadow: 1px 2px 4px 1px #DDD;
+  border: 1px solid #E2CD9D;
+  font-weight: bold;
+}
