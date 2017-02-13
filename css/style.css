@@ -8,6 +8,10 @@ html {
   line-height: 1.65;
 }
 
+h5 {
+  margin-bottom: 0;
+}
+
 ul {
   padding-left: 20px;
 }
